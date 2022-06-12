@@ -1,3 +1,3 @@
 # Java_Course
-##TAU Course
-###Helps to understand java better
+## TAU Course
+### Helps to understand java better
